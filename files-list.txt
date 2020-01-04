@@ -1,0 +1,8 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2E95-1639
+
+ Directory of C:\Users\JLB\files-list
+
+01/03/2020  11:59 PM               423 jbus-dir.bat
+               1 File(s)            423 bytes
+               0 Dir(s)  308,907,409,408 bytes free
