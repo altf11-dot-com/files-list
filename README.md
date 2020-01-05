@@ -11,7 +11,7 @@ VBA Import from CMD Directory listing text file
   - Alt+F11 to open the Visual Basic Editor
   - right click on the project, select Import File, navigate and select
 
--files-list.txt
+- files-list.txt
   - sample output from jbus-dir.bat
   - ** OR ** run jbus-dir.bat on your own folders
   - Open files-list.txt and move the created worksheet to
@@ -23,4 +23,4 @@ VBA Import from CMD Directory listing text file
   - Right click on the bottom tab of the worksheet, move to workbook
     containing the WriteData macro
 
-WITH THE DATA FROM files-list.txt in column A, run the macro WriteData
+**WITH THE DATA FROM files-list.txt in column A, run the macro WriteData**
