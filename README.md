@@ -4,7 +4,8 @@ VBA Import from CMD Directory listing text file
 - jbus-dir.bat
   - run in CMD with no parameters for usage prompts
   - outputs Windows directory including subfolders to files-list.txt
-  - open in Notepad to see the batch code, core command is DIR /S
+  - open in a text editor such as Notepad to see the batch code
+  - the core command line statement is DIR /S
 
 - file-list-WriteData.bas
   - create new Excel macro-enabled workbook, import to module
