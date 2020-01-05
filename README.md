@@ -9,8 +9,9 @@ VBA Import from CMD Directory listing text file
 
 - file-list-WriteData.bas
   - create new Excel macro-enabled workbook, import to module
-  - Alt+F11 to open the Visual Basic Editor
-  - right click on the project, select Import File, navigate and select
+    - Alt+F11 opens the Visual Basic Editor
+    - right click on the project, select Import File, navigate and select
+    - File/SaveAs a macro-enabled workbook (.xlsm or .xlsb)
 
 - files-list.txt
   - sample output from jbus-dir.bat
