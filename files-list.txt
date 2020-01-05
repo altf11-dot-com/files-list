@@ -1,8 +1,44 @@
  Volume in drive C is OS
  Volume Serial Number is 2E95-1639
 
- Directory of C:\Users\JLB\files-list
+ Directory of C:\Users\JLB\001-FirstExcelMacro
 
-01/01/2020  10:39 PM                61 README.md
-               1 File(s)             61 bytes
-               0 Dir(s)  308,896,436,224 bytes free
+12/24/2018  08:29 PM            13,487 myTracker-a.xlsm
+12/24/2018  10:50 PM            13,371 myTracker-b.xlsm
+12/23/2018  11:48 AM            12,492 myTracker.xlsm
+               3 File(s)         39,350 bytes
+
+ Directory of C:\Users\JLB\AltF11.com
+
+12/24/2018  11:58 PM            13,458 myTracker.xlsm
+               1 File(s)         13,458 bytes
+
+ Directory of C:\Users\JLB\Desktop\odds-ends\2019-10-27-desktop-archive
+
+12/09/2018  11:08 AM            16,235 myTracker.xlsm
+               1 File(s)         16,235 bytes
+
+ Directory of C:\Users\JLB\Documents-CQ5600F
+
+12/19/2018  10:21 PM            11,617 myFirstMacro.xlsm
+12/24/2018  09:16 PM            13,354 myTracker.xlsm
+               2 File(s)         24,971 bytes
+
+ Directory of C:\Users\JLB\myTracker\myWebsites
+
+12/18/2018  11:06 PM            35,221 myWebsites.xlsm
+               1 File(s)         35,221 bytes
+
+ Directory of C:\Users\JLB\myTracker\myWebsites_bkp1
+
+12/18/2018  11:06 PM            35,221 myWebsites.xlsm
+               1 File(s)         35,221 bytes
+
+ Directory of C:\Users\JLB\xfer-q
+
+11/28/2019  01:59 PM            35,230 myWebsites.xlsm
+               1 File(s)         35,230 bytes
+
+     Total Files Listed:
+              10 File(s)        199,686 bytes
+               0 Dir(s)  308,371,701,760 bytes free
