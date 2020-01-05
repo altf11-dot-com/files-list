@@ -14,13 +14,11 @@ VBA Import from CMD Directory listing text file
 - files-list.txt
   - sample output from jbus-dir.bat
   - ** OR ** run jbus-dir.bat on your own folders
-  - Open files-list.txt and move the created worksheet to
-    the workbookupload to empty worksheet:
-  - File/Open/Browse, Text files, select files-list.txt
-  - Text Import Wizard page 1: Fixed Width, Next
-  - Text Import Wizard page 2: delete all break lines, Next
-  - Text Import Wizard page 3: column format = Text, Finish
-  - Right click on the bottom tab of the worksheet, move to workbook
-    containing the WriteData macro
+  - Open files-list.txt:
+    - File/Open/Browse, Text files, select files-list.txt
+    - Text Import Wizard page 1: Fixed Width, Next
+    - Text Import Wizard page 2: delete all break lines, Next
+    - Text Import Wizard page 3: column format = Text, Finish
+    - Right click on the bottom tab of the worksheet, move to workbook containing the WriteData macro
 
 **WITH THE DATA FROM files-list.txt in column A, run the macro WriteData**
